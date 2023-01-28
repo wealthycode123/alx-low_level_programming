@@ -1,2 +1,2 @@
-#!/bin/bashh
-gcc $CFILE -masm = intel -S
+#!/bin/bash
+gcc $CFILE -S -masm = intel
